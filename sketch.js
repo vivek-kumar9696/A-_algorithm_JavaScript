@@ -1,5 +1,5 @@
-var cols = 100;
-var rows = 100;
+var cols = 50;
+var rows = 50;
 var grid = new Array(cols)
 
 var openSet = [];
@@ -110,7 +110,7 @@ function setup(){
 
 
     start = grid[0][0];
-    end = grid[6][49];
+    end = grid[49][49];
     start.wall = false;
     end.wall = false;
 
