@@ -1,8 +1,5 @@
 # Astar_algorithm_JavaScript
 
-please refer:
-https://www.youtube.com/watch?v=aKYlikFAV4k&t=39s  (A* implementation video)
-
 A JavaScript A* algorithm implementation
 
 * open index.html to start the program in browser
